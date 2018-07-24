@@ -39,6 +39,14 @@
     {
       "class": "shapeGroup",
       "id": "3BA16A6E-F320-49DD-84FC-3BD59A26AC13"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "14A5CE4F-0107-4A3F-B55B-E2590142CBA1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D90DFA6-4FB1-4336-BF82-2637DDA44E36"
     }
   ],
   "name": "Page 1",
