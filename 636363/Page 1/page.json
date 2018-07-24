@@ -32,6 +32,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F5A6B1D2-790B-453A-B2F9-50BC65538C5C"
+    }
   ],
   "name": "Page 1",
   "nameIsFixed": false,
