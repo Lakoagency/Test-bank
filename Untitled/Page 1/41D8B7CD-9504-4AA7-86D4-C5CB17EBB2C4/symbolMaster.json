@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 13,
+  "changeIdentifier": 54,
   "do_objectID": "41D8B7CD-9504-4AA7-86D4-C5CB17EBB2C4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -47,6 +47,10 @@
     {
       "class": "shapeGroup",
       "id": "A27F7F3A-AA67-4591-912A-6E7782EB99BC"
+    },
+    {
+      "class": "text",
+      "id": "5496EDCD-8606-4455-8325-20843A379FBF"
     }
   ],
   "name": "Test symbol",
